@@ -58,5 +58,4 @@ This dashboard is part of a larger ecosystem:
 2.  **PostgreSQL Database:** Stores historical price data and item metadata.
 3.  **Streamlit Dashboard (Frontend):** Connects to the database to render insights for the end-user.
 
----
-*Developed by [Your Name]*
+Star ⭐ this repo if you find it useful!
