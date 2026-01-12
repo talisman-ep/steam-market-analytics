@@ -6,7 +6,7 @@
 
 An interactive analytics dashboard designed to monitor and analyze CS2 skin prices in real-time. This tool serves as the frontend interface for a high-load scraping system, visualizing market trends and helping traders identify profitable opportunities.
 
-🔗 **[Live Demo](https://share.streamlit.io/)** *(Insert your link here after deployment)*
+🔗 **[Live Demo](https://steam-market-analytics-dgne9sx6y4y3hykdxig4yz.streamlit.app/)*
 
 ---
 
